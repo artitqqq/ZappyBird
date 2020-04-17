@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Snail_s-House-Cosmic-Love.ogg-d36d9280baf8ce8a409d953c3643de99.oggstr"
+
+[deps]
+
+source_file="res://Snail_s-House-Cosmic-Love.ogg"
+dest_files=[ "res://.import/Snail_s-House-Cosmic-Love.ogg-d36d9280baf8ce8a409d953c3643de99.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
